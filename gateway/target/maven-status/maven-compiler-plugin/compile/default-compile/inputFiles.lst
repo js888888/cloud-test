@@ -1,0 +1,12 @@
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\dto\UserDTO.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\aop\JwtCheckAop.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\controller\AuthController.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\service\MyFilter.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\filter\JwtCheck.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\GatewayApplication.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\annotation\JwtCheck.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\dto\ReturnData.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\aouth\JwtTokenFilter.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\annotation\ExecuteTime.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\jwt\JwtModel.java
+E:\DevelopmentTool\code\gateway\src\main\java\com\ky\gateway\jwt\JwtUtil.java
